@@ -544,10 +544,10 @@ footer {
 }
 
 .project-image {
-    float: top
+    float: right
 }
 
-/*
+
 .project-info {
     position: absolute;
     top: 50%;
@@ -555,7 +555,7 @@ footer {
     margin-left: 300px;
     padding: 15px
 }
-*/
+
 
 .project-info {
     position: relative;
